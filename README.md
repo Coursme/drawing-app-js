@@ -28,6 +28,7 @@
 drawing-app-js/
 ├── index.html        # Главный HTML файл
 ├── style.css         # Файл со стилями
+├── icons             # Иконки
 └── script.js         # Основной JavaScript файл
 ```
 
